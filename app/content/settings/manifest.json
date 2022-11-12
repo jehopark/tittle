@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Tittle.news",
+  "shortName": "Tittle.news",
+  "description": "A new kid of news app for Gen Z",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
